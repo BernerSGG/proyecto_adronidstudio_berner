@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "576058828805",
+    "project_id": "combgnada",
+    "storage_bucket": "combgnada.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576058828805:android:3b8b982ae1ecdd4e26d46c",
+        "android_client_info": {
+          "package_name": "com.example.combgnada"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB83cLPxRMQQszyhu_BppbjBKZZmNphZ58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
